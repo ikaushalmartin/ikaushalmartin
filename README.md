@@ -1,4 +1,4 @@
-# Hi, I am Martin Kaushal
+# Hi, I'm Martin! 
 
 - 👋 Hi, I’m @ikaushalmartin
 - 👀 I’m interested in ...
