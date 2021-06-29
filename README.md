@@ -1,2 +1,2 @@
-## Hey there 👋, I am Martin!
+## Hi there 👋, I'm Martin!
 
