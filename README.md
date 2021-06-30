@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Structures And Algorithms**
 
-- 💬 Ask me about **C++, Graphics Designing, Web Development**
+- 💬 Ask me about **Development And Designing**
 
 - 📫 How to reach me **kaushalmartin@gmail.com**
 
