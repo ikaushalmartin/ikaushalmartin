@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikaushalmartin&label=Profile%20views&color=0e75b6&style=flat" alt="ikaushalmartin" /> </p>
 
-- 🔭 I’m currently working on **Data Structures And Algorithms**
+- 🔭 I’m currently working on **Full Stack Development And DSA**
 
-- 🌱 I’m currently learning **DSA, Flutter**
+- 🌱 I’m currently learning **Data Structures And Algorithms and Backend**
 
 - 🤝 I’m looking for help with **Data Structures And Algorithms**
 
