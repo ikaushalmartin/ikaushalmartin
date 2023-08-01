@@ -34,7 +34,7 @@
 #### 📊 Github Stats
  
  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-            <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&"/>
+            <img align="center" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&"/>
     </a>
  <img src="https://komarev.com/ghpvc/?username=ikaushalmartin&label=Visitors&color=0e75b6&style=flat" alt="ikaushalmartin" />
 
