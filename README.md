@@ -2,7 +2,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Greetings%2C+Code+Voyager!+;I'm+Martin+Kaushal...;Ready+To+Geek+Out+With+You!!%F0%9F%A4%93%F0%9F%92%BB" /></a></p>
 
-👋 I'm Martin Kaushal, a Tech Maverick 💻😃 fueled by an insatiable thirst for knowledge and innovation. Pursuing B.E in Computer Science and Engineering at Thapar Institute of Engineering and Technology, Patiala, Immersed in the world of crafting Fullstack Mobile Applications with keen interest in computer and internet security. Curious and eager to explore the latest technologies, always up for challenges that ignite my passion for problem-solving. Let's connect and build something incredible! 💫 🚀 
+👋 I'm **Martin Kaushal**, a Tech Maverick 💻😃 fueled by an insatiable thirst for knowledge and innovation. Pursuing **B.E** in **Computer Science and Engineering** at **Thapar Institute of Engineering and Technology, Patiala**, Immersed in the world of crafting **Fullstack Mobile Applications** with keen interest in **Computer and Internet Security**. Curious and eager to explore the latest technologies, always up for challenges that ignite my passion for problem-solving. Let's connect and build something incredible! 💫 🚀 
 
 
 
