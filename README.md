@@ -5,9 +5,10 @@
 👋 I'm Martin Kaushal, a Tech Maverick 💻😃 fueled by an insatiable thirst for knowledge and innovation. Pursuing B.E in Computer Science and Engineering at Thapar Institute of Engineering and Technology, Patiala, Immersed in the world of crafting Fullstack Mobile Applications with keen interest in computer and internet security. Curious and eager to explore the latest technologies, always up for challenges that ignite my passion for problem-solving. Let's connect and build something incredible! 💫 🚀 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikaushalmartin&label=Profile%20views&color=0e75b6&style=flat" alt="ikaushalmartin" /> </p>
 
-<h4 align="left">🛠 Languages and Tools:</h4>
+
+
+#### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=White)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=White)&nbsp;
@@ -19,6 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=White)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=White)&nbsp; 
 ![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=White)&nbsp;  
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=White)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=White)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=White)&nbsp;
@@ -27,9 +29,16 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=Adobe%20Photoshop&logoColor=White)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=Adobe%20Illustrator&logoColor=White)&nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&" alt="ikaushalmartin" /></p>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h4 align="left">📫 How to reach me:</h4>
+#### 📊 Github Stats
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+            <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&"/>
+    </a>
+ <img src="https://komarev.com/ghpvc/?username=ikaushalmartin&label=Visitors&color=0e75b6&style=flat" alt="ikaushalmartin" />
+
+#### 📫 How to reach me
 <a href="mailto:kaushalmartin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/ikaushalmartin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://www.instagram.com/i.kaushalmartin/"><img src="https://img.shields.io/badge/-@i.kaushalmartin-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
