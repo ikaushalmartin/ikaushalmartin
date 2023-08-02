@@ -10,9 +10,10 @@
 
 #### 🛠 Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=White)&nbsp;
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=White)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=White)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=White)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=White)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=White)&nbsp;
