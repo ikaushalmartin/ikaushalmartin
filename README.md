@@ -33,11 +33,18 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 #### 📊 Github Stats
- 
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-            <img align="center" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&"/>
-    </a>
+<p >
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="center"width=400 src="https://github-readme-activity-graph.vercel.app/graph?username=ikaushalmartin&theme=redical"/>
+  </a>
+</p>
+
  <img src="https://komarev.com/ghpvc/?username=ikaushalmartin&label=Visitors&color=0e75b6&style=flat" alt="ikaushalmartin" />
+ 
+ 
 
 #### 📫 How to reach me
 <a href="mailto:kaushalmartin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
