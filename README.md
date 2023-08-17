@@ -35,10 +35,10 @@
 #### 📊 Github Stats
 <p >
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img align="center" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="center"width=400 src="https://github-readme-activity-graph.vercel.app/graph?username=ikaushalmartin&theme=redical"/>
+    <img align="center"width=380 src="https://github-readme-activity-graph.vercel.app/graph?username=ikaushalmartin&theme=redical"/>
   </a>
 </p>
 
