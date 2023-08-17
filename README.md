@@ -33,7 +33,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 #### 📊 Github Stats
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushalmartin&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
   </a>
