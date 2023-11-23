@@ -30,7 +30,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=Adobe%20Photoshop&logoColor=White)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=Adobe%20Illustrator&logoColor=White)&nbsp;
 
-/*<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />*/
+
 
 #### 📊 Github Stats
 <p align="left">
