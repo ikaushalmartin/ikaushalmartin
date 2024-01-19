@@ -28,7 +28,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=White)&nbsp; 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=White)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=Adobe%20Photoshop&logoColor=White)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=Adobe%20Illustrator&logoColor=White)&nbsp;
+ 
 
 
 
