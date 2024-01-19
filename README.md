@@ -20,7 +20,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=White)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=White)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=White)&nbsp; 
+
 ![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=White)&nbsp;  
+
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=White)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=White)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -28,6 +30,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=White)&nbsp; 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=White)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=Adobe%20Photoshop&logoColor=White)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=Adobe%20Illustrator&logoColor=White)&nbsp;
  
 
 
