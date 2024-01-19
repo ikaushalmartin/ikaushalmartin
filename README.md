@@ -9,8 +9,8 @@
 
 
 #### 🛠 Languages and Tools
-
-
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=White)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=White)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=White)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=White)&nbsp;
