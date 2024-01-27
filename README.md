@@ -21,6 +21,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=White)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=White)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=White)&nbsp;
+![Nginx](https://img.shields.io/badge/-Naginx-05122A?style=flat&logo=nginx&logoColor=White)&nbsp;
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=gunicorn&logoColor=White)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=White)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=White)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
