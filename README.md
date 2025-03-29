@@ -18,6 +18,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=White)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=White)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=White)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=flask&logoColor=White)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=White)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=White)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=White)&nbsp;
