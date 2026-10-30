@@ -1,7 +1,9 @@
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" alt="Martin Kaushal, Software Development Engineer. From edge to scale: engineering systems for the real world." width="100%">
 </picture>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ikaushalmartin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn" height="40"></picture></a>&nbsp;
@@ -11,20 +13,26 @@
 
 I engineer systems end to end: AI that runs on single-board computers with minimal compute, the real-time pipelines that move their data, and the backends that run it all at scale. Today I do this at **Intozi**, where the video-analytics and Edge AI systems I build run 24/7 in the field.
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg">
   <img src="assets/flow-light.svg" alt="How I build: edge devices run AI (inference, recording, sync, unattended), a real-time ingestion layer relays events and video with zero data loss, and an async backend scales it, with VLM summaries and search for apps and consumers." width="100%">
 </picture>
+</p>
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ladder-dark.svg">
   <img src="assets/ladder-light.svg" alt="Hardware range: 1 GB Raspberry Pi (make it fit), Jetson Nano (make it fast), Jetson Orin (max it out), AI accelerators (explore beyond)." width="100%">
 </picture>
+</p>
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" alt="Tech stack. Languages: Python, C++, SQL. Edge AI and hardware: Raspberry Pi, NVIDIA Jetson, TensorRT, ONNX. Video and streaming: OpenCV, FFmpeg, WebRTC, RTSP, ONVIF. Backend and async: Django, Flask, Celery, RabbitMQ, Redis, Gunicorn, Nginx. Data and infra: PostgreSQL, Elasticsearch, Firebase, AWS EC2, Docker, Linux. Apps and tools: Flutter, Git, Postman." width="100%">
 </picture>
+</p>
 
 <p align="center">
   <picture>
