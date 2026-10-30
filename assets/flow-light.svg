@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="292" viewBox="0 0 900 292" role="img" aria-label="How I build: edge devices run AI, a real-time ingestion layer streams events and video with zero data loss, and an async backend scales it with VLM summaries and search.">
+<title>How I build: edge devices run AI, a real-time ingestion layer streams events and video with zero data loss, and an async backend scales it with VLM summaries and search.</title>
+<defs>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#e1e6eb"/></pattern>
+<linearGradient id="fc0" x1="280" y1="0" x2="322" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0d9488"/><stop offset="1" stop-color="#c2410c"/></linearGradient>
+<linearGradient id="fc1" x1="578" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#c2410c"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+</defs>
+<style>
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+
+@keyframes dash{to{stroke-dashoffset:-24}}
+.flow{stroke-dasharray:6 6;animation:dash 1.2s linear infinite}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes halo{0%{r:0;opacity:.55}100%{r:16px;opacity:0}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="899" height="291" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="32" y="44" class="mono" font-size="13" fill="#59636e">// how i build: edge → stream → scale</text>
+<rect x="32" y="68" width="240" height="196" rx="14" fill="#ffffff" stroke="#0d9488" stroke-opacity=".45"/>
+<rect x="54" y="68" width="44" height="3" rx="1.5" fill="#0d9488"/>
+<text x="54" y="104" class="mono" font-size="12" fill="#0d9488" letter-spacing="1">01 · EDGE</text>
+<rect x="228.1" y="90.1" width="19.8" height="19.8" rx="4.05" fill="#ffffff" stroke="#0d9488" stroke-width="2"/>
+<rect x="233.95" y="95.95" width="8.1" height="8.1" rx="1.35" fill="#0d9488" fill-opacity=".3" stroke="#0d9488" stroke-width="1.5"/>
+<line x1="233.95" y1="87.39999999999999" x2="233.95" y2="90.1" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="233.95" y1="109.9" x2="233.95" y2="112.60000000000001" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="225.4" y1="95.95" x2="228.1" y2="95.95" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="247.9" y1="95.95" x2="250.6" y2="95.95" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="238.0" y1="87.39999999999999" x2="238.0" y2="90.1" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="238.0" y1="109.9" x2="238.0" y2="112.60000000000001" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="225.4" y1="100.0" x2="228.1" y2="100.0" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="247.9" y1="100.0" x2="250.6" y2="100.0" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="242.05" y1="87.39999999999999" x2="242.05" y2="90.1" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="242.05" y1="109.9" x2="242.05" y2="112.60000000000001" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="225.4" y1="104.05" x2="228.1" y2="104.05" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<line x1="247.9" y1="104.05" x2="250.6" y2="104.05" stroke="#0d9488" stroke-width="2" stroke-linecap="round"/>
+<text x="54" y="136" class="sans" font-size="18" font-weight="700" fill="#1f2328">On-device AI</text>
+<circle cx="58" cy="165.5" r="2.6" fill="#0d9488"/>
+<text x="70" y="170" class="sans" font-size="14" fill="#59636e">cameras · radars · sensors</text>
+<circle cx="58" cy="190.5" r="2.6" fill="#0d9488"/>
+<text x="70" y="195" class="sans" font-size="14" fill="#59636e">inference · recording · sync</text>
+<circle cx="58" cy="215.5" r="2.6" fill="#0d9488"/>
+<text x="70" y="220" class="sans" font-size="14" fill="#59636e">runs unattended</text>
+<rect x="330" y="68" width="240" height="196" rx="14" fill="#ffffff" stroke="#c2410c" stroke-opacity=".45"/>
+<rect x="352" y="68" width="44" height="3" rx="1.5" fill="#c2410c"/>
+<text x="352" y="104" class="mono" font-size="12" fill="#c2410c" letter-spacing="1">02 · STREAM</text>
+<path d="M539 87 L528 102 L535 102 L533 113 L544 98 L537 98 Z" fill="#c2410c" fill-opacity=".3" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="352" y="136" class="sans" font-size="18" font-weight="700" fill="#1f2328">Real-time ingestion</text>
+<circle cx="356" cy="165.5" r="2.6" fill="#c2410c"/>
+<text x="368" y="170" class="sans" font-size="14" fill="#59636e">edge events + video</text>
+<circle cx="356" cy="190.5" r="2.6" fill="#c2410c"/>
+<text x="368" y="195" class="sans" font-size="14" fill="#59636e">relayed at ingest speed</text>
+<circle cx="356" cy="215.5" r="2.6" fill="#c2410c"/>
+<text x="368" y="220" class="sans" font-size="14" fill="#59636e">zero data loss</text>
+<rect x="628" y="68" width="240" height="196" rx="14" fill="#ffffff" stroke="#2563eb" stroke-opacity=".45"/>
+<rect x="650" y="68" width="44" height="3" rx="1.5" fill="#2563eb"/>
+<text x="650" y="104" class="mono" font-size="12" fill="#2563eb" letter-spacing="1">03 · SCALE</text>
+<rect x="821.4" y="88.86999999999999" width="25.2" height="6.3" rx="1.68" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+<line x1="825.18" y1="92.02" x2="831.9" y2="92.02" stroke="#2563eb" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+<circle cx="842.82" cy="92.02" r="1.092" fill="#2563eb" style="animation:pulse 1.8s ease-in-out 0.0s infinite"/>
+<rect x="821.4" y="96.85" width="25.2" height="6.3" rx="1.68" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+<line x1="825.18" y1="100.0" x2="831.9" y2="100.0" stroke="#2563eb" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+<circle cx="842.82" cy="100.0" r="1.092" fill="#2563eb" style="animation:pulse 1.8s ease-in-out 0.3s infinite"/>
+<rect x="821.4" y="104.82999999999998" width="25.2" height="6.3" rx="1.68" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+<line x1="825.18" y1="107.97999999999999" x2="831.9" y2="107.97999999999999" stroke="#2563eb" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+<circle cx="842.82" cy="107.97999999999999" r="1.092" fill="#2563eb" style="animation:pulse 1.8s ease-in-out 0.6s infinite"/>
+<text x="650" y="136" class="sans" font-size="18" font-weight="700" fill="#1f2328">Backend at scale</text>
+<circle cx="654" cy="165.5" r="2.6" fill="#2563eb"/>
+<text x="666" y="170" class="sans" font-size="14" fill="#59636e">async workers + queues</text>
+<circle cx="654" cy="190.5" r="2.6" fill="#2563eb"/>
+<text x="666" y="195" class="sans" font-size="14" fill="#59636e">fast search as data grows</text>
+<circle cx="654" cy="215.5" r="2.6" fill="#db2777"/>
+<text x="666" y="220" class="sans" font-size="14" fill="#59636e">VLM summaries + search</text>
+<circle cx="654" cy="240.5" r="2.6" fill="#2563eb"/>
+<text x="666" y="245" class="sans" font-size="14" fill="#59636e">apps + consumers</text>
+<line x1="280" y1="166.0" x2="316" y2="166.0" stroke="#d0d7de" stroke-width="2"/><line x1="280" y1="166.0" x2="316" y2="166.0" stroke="url(#fc0)" stroke-width="2.5" class="flow"/><path d="M314 161.0 L322 166.0 L314 171.0" fill="none" stroke="#c2410c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="578" y1="166.0" x2="614" y2="166.0" stroke="#d0d7de" stroke-width="2"/><line x1="578" y1="166.0" x2="614" y2="166.0" stroke="url(#fc1)" stroke-width="2.5" class="flow"/><path d="M612 161.0 L620 166.0 L612 171.0" fill="none" stroke="#2563eb" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
