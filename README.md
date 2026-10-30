@@ -5,13 +5,12 @@
 </picture>
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/ikaushalmartin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn" height="40"></picture></a>&nbsp;
   <a href="mailto:kaushalmartin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email" height="40"></picture></a>&nbsp;
   <a href="https://www.instagram.com/i.kaushalmartin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img src="assets/btn-instagram-light.svg" alt="Instagram" height="40"></picture></a>
-</p>
-
-I engineer systems end to end: AI that runs on single-board computers with minimal compute, the real-time pipelines that move their data, and the backends that run it all at scale. Today I do this at **Intozi**, where the video-analytics and Edge AI systems I build run 24/7 in the field.
+  <p align="left">I engineer systems end to end: AI that runs on single-board computers with minimal compute, the real-time pipelines that move their data, and the backends that run it all at scale. Today I do this at <b>Intozi</b>, where the video-analytics and Edge AI systems I build run 24/7 in the field.</p>
+</div>
 
 <p>
 <picture>
